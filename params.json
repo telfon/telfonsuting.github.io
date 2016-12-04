@@ -1,6 +1,6 @@
 {
   "name": "Telfonsuting.GitHub.io",
   "tagline": "telfonsuting个人博客",
-  "body": "                                        # 数据分析\r\n## 学习网站\r\n* [慕课网]( https://telfon.github.io/telfonsuting.github.io/)\r\n* [天善智能]( https://telfon.github.io/telfonsuting.github.io/)\r\n* [实验楼](https://www.shiyanlou.com/)\r\n",
+  "body": "### 学习网站\r\n* [慕课网]( https://telfon.github.io/telfonsuting.github.io/)\r\n* [天善智能]( https://telfon.github.io/telfonsuting.github.io/)\r\n* [实验楼](https://www.shiyanlou.com/)\r\n\r\n#  数据分析\r\n## R\r\n1. R语言包\r\n[使用R语言的正确姿势，R包干货奉献 ](http://blog.sina.com.cn/s/blog_15dd952a70102wvuq.html)<br>\r\n[R语言多元统计包介绍](http://f.dataguru.cn/thread-202423-1-1.html)<br>\r\n[计量R包汇总](https://www.douban.com/note/344818734/)\r\n2.Rattle包\r\n[rattle：基于R的数据挖掘工具：简介与安装](http://www.360doc.com/content/13/0908/11/14471_313005114.shtml)\r\n[使用R语言rattle包处理分析淘宝数据](http://f.dataguru.cn/forum.php?mod=viewthread&tid=229903)\r\n[R语言、Rattle以及ggobi协同进行数据可视工作](http://www.dataguru.cn/article-1432-1.html)\r\n[Rattle :基于R的数据挖掘工具:功能概览](http://blog.csdn.net/u010022051/article/details/47660679)\r\n[数据挖掘快速入门 用rattle和R进行数据挖掘6 交互图形](http://blog.sina.com.cn/s/blog_b5e42fbd0101jbu8.html)\r\n[数据挖掘快速入门 用rattle和R进行数据挖掘5 数据预探索](http://blog.sina.com.cn/s/blog_b5e42fbd0101jbfr.html)\r\n[数据挖掘快速入门 用rattle和R进行数据挖掘4 数据载入](http://blog.sina.com.cn/s/blog_b5e42fbd0101jbcq.html)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
